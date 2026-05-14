@@ -33,16 +33,16 @@ However, CBA involves assumptions about discount rates, time horizons, and the v
 ### Key Components of Cost-Benefit Analysis
 Cost-benefit analysis involves the following key components:
 
-- **Identifying Costs and Benefits**: Enumerate all relevant costs and benefits, including direct, indirect, and intangible impacts. Costs include implementation expenses, maintenance, and opportunity costs, while benefits include economic gains, social improvements, and environmental sustainability.
-- **Monetizing Costs and Benefits**: Convert costs and benefits into monetary terms. For example, valuing human life in public health policies, estimating productivity gains from education programs, or quantifying environmental benefits from pollution reduction.
-- **Discounting Future Costs and Benefits**: Costs and benefits occur at different times, requiring discounting to compare them on a common basis. The present value of future costs and benefits is calculated using a discount rate that reflects the opportunity cost of capital and societal time preferences.
-- **Calculating Net Present Value (NPV)**: The difference between the present value of benefits and costs. A positive NPV indicates that the policy provides a net benefit, while a negative NPV suggests that the costs outweigh the benefits.
-- **Conducting Sensitivity Analysis**: Evaluates how changes in assumptions (e.g., discount rates, cost estimates) affect the outcome. This ensures the robustness of policy recommendations.
+- Identifying Costs and Benefits: Enumerate all relevant costs and benefits, including direct, indirect, and intangible impacts. Costs include implementation expenses, maintenance, and opportunity costs, while benefits include economic gains, social improvements, and environmental sustainability.
+- Monetizing Costs and Benefits: Convert costs and benefits into monetary terms. For example, valuing human life in public health policies, estimating productivity gains from education programs, or quantifying environmental benefits from pollution reduction.
+- Discounting Future Costs and Benefits: Costs and benefits occur at different times, requiring discounting to compare them on a common basis. The present value of future costs and benefits is calculated using a discount rate that reflects the opportunity cost of capital and societal time preferences.
+- Calculating Net Present Value (NPV): The difference between the present value of benefits and costs. A positive NPV indicates that the policy provides a net benefit, while a negative NPV suggests that the costs outweigh the benefits.
+- Conducting Sensitivity Analysis: Evaluates how changes in assumptions (e.g., discount rates, cost estimates) affect the outcome. This ensures the robustness of policy recommendations.
 
 ### Net Present Value and Benefit-Cost Ratio
 Net Present Value (NPV) and Benefit-Cost Ratio (BCR) are the two most commonly used metrics in CBA:
 
-- **Net Present Value (NPV)**: The difference between the present value of benefits and the present value of costs:
+- Net Present Value (NPV): The difference between the present value of benefits and the present value of costs:
 
 
 Where:
@@ -54,7 +54,7 @@ Where:
 
 A positive NPV indicates that the policy generates net benefits, justifying its implementation.
 
-- **Benefit-Cost Ratio (BCR)**: The ratio of the present value of benefits to the present value of costs:
+- Benefit-Cost Ratio (BCR): The ratio of the present value of benefits to the present value of costs:
 
 
 A BCR greater than 1 indicates that the benefits exceed the costs, supporting the policy decision.
@@ -62,10 +62,10 @@ A BCR greater than 1 indicates that the benefits exceed the costs, supporting th
 ### Real-World Examples of Cost-Benefit Analysis
 Cost-benefit analysis is widely used in public policy to evaluate a variety of programs and regulations. Examples include:
 
-- **Environmental Policy**: Estimating the benefits of reduced air pollution versus the costs of implementing clean energy standards.
-- **Public Health Policy**: Comparing the costs of vaccination campaigns with the economic benefits of reduced healthcare costs and productivity gains.
-- **Transportation Policy**: Evaluating the costs of expanding public transportation against the social benefits of reduced traffic congestion and emissions.
-- **Education Policy**: Analyzing the long-term economic benefits of increased educational attainment against the costs of funding public schools and scholarships.
+- Environmental Policy: Estimating the benefits of reduced air pollution versus the costs of implementing clean energy standards.
+- Public Health Policy: Comparing the costs of vaccination campaigns with the economic benefits of reduced healthcare costs and productivity gains.
+- Transportation Policy: Evaluating the costs of expanding public transportation against the social benefits of reduced traffic congestion and emissions.
+- Education Policy: Analyzing the long-term economic benefits of increased educational attainment against the costs of funding public schools and scholarships.
 
 ### Implementing Cost-Benefit Analysis in Python
 I am creating a synthetic dataset here for illustration.
