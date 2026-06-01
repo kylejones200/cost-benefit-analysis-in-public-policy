@@ -11,14 +11,7 @@ Cost-Benefit Analysis (CBA) is a systematic approach to evaluating the economic 
 
 Cost-benefit analysis quantifies the economic impact of public policy decisions, helping policymakers weigh trade-offs and prioritize initiatives.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
